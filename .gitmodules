@@ -1,0 +1,3 @@
+[submodule "./plugins/cordova-plugin-simple-contacts"]
+	path = ./plugins/cordova-plugin-simple-contacts
+	url = https://github.com/Hunni-Devteam/cordova-plugin-simple-contacts.git
